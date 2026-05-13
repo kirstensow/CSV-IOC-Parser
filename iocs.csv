@@ -1,0 +1,11 @@
+date,source,indicator,type,notes
+2024-01-15,VirusTotal,192.168.1.105,IP,C2 server
+2024-01-15,AlienVault,malware-site.com,domain,phishing
+2024-01-16,VirusTotal,192.168.1.105,IP,C2 server duplicate
+2024-01-16,SANS,5d41402abc4b2a76b9719d911017c592,hash,malware sample
+2024-01-17,AlienVault,phishing-page.com,domain,credential harvesting
+2024-01-17,VirusTotal,10.0.0.254,IP,port scanning
+2024-01-18,SANS,7215ee9c7d9dc229d2921a40e899ec5f,hash,ransomware
+2024-01-18,AlienVault,malware-site.com,domain,phishing duplicate
+2024-01-19,VirusTotal,85.250.54.29,IP,brute force
+2024-01-19,SANS,5d41402abc4b2a76b9719d911017c592,hash,malware duplicate
