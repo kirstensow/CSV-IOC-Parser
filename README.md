@@ -14,6 +14,13 @@ to a new CSV file.
 - Organises IOCs by type into a dictionary
 - Exports clean deduplicated IOC list to CSV
 
+Version 2 updates:
+
+Now accepts CSV, JSON and TXT input files
+Deduplicates IOCs across all input files
+Improved code structure and readability
+
+
 ## How to Use
 1. Place your CSV files in the same folder as the script
 2. Run the script:
